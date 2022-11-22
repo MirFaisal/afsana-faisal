@@ -1,0 +1,14 @@
+.one {
+  width: 200px;
+  height: 200px;
+}
+.main-nav {
+  background-color: rgb(164, 92, 231);
+}
+.ffff {
+  width: 1320px;
+  margin: 0 auto;
+}
+.border-bottom {
+  border-bottom: 5px solid rgb(0, 0, 0) !important;
+}
