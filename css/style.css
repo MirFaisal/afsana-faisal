@@ -12,3 +12,12 @@
 .border-bottom {
   border-bottom: 5px solid rgb(0, 0, 0) !important;
 }
+.main {
+  width: 200px;
+  height: 500px;
+  background-color: brown;
+}
+.gol {
+  height: 300px;
+  width: 300px;
+}
