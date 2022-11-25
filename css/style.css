@@ -21,3 +21,42 @@
   height: 300px;
   width: 300px;
 }
+.navbar .contact-btn {
+  background: #6a4df4;
+  padding: 15px 42px;
+  
+}
+.navbar .navbar-nav .nav-link {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffffff;
+}
+.navbar .navbar-nav .nav-item {
+  margin-right: 66px;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffffff;
+}
+.banner {
+  background: url(../images/agenc-Banner\ 1.jpg) no-repeat center;
+  background-size: 100%;
+  height: 800px;
+}
+.banner .baner-title {
+  width: 950px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 75px;
+  line-height: 120%;
+  text-align: center;
+  color: #ffffff;
+}
